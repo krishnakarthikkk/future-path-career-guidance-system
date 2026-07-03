@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "3d2c621c-db00-4a93-9d68-7c50e5c6de3a",
+    "personal_info": {
+      "name": "krishna karthik",
+      "email": "23eg112a47@anurag.edu.in",
+      "college": "Anurag university ",
+      "branch": "IT",
+      "year": "4"
+    },
+    "academic_info": {
+      "cgpa": "7.35",
+      "tenth_percentage": "100",
+      "twelfth_percentage": "80.5"
+    },
+    "technical_skills": {
+      "programming_languages": [
+        "python",
+        "java"
+      ],
+      "skills": [
+        "SQl"
+      ],
+      "projects": [
+        {
+          "description": "",
+          "title": ""
+        }
+      ],
+      "internships": [
+        {
+          "company": "",
+          "description": "",
+          "duration": "",
+          "role": ""
+        }
+      ],
+      "certifications": [
+        {
+          "issuer": "",
+          "name": ""
+        }
+      ],
+      "hackathons": [
+        {
+          "description": "",
+          "name": ""
+        }
+      ]
+    },
+    "soft_skills": {
+      "communication": 5,
+      "leadership": 4,
+      "teamwork": 4,
+      "problem_solving": 3,
+      "public_speaking": 5
+    },
+    "extracurriculars": {
+      "ncc": false,
+      "nss": false,
+      "sports": [],
+      "volunteering": [
+        "Blood donation volunteer"
+      ],
+      "club_activities": [],
+      "event_management": false,
+      "achievements": []
+    },
+    "interests": [],
+    "updated_at": "2026-06-23T04:16:21.859432"
+  }
+]

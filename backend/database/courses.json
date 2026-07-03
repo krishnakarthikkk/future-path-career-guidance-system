@@ -1,0 +1,326 @@
+[
+  {
+    "id": "course_se_1",
+    "career_id": "software_engineer",
+    "title": "Data Structures and Algorithms Specialization",
+    "platform": "Coursera (UC San Diego)",
+    "link": "https://www.coursera.org/specializations/data-structures-algorithms",
+    "type": "Course",
+    "_id": "ea8b1dca-dfc6-499e-9d97-9082b4c2e9bb"
+  },
+  {
+    "id": "course_se_2",
+    "career_id": "software_engineer",
+    "title": "The Web Developer Bootcamp",
+    "platform": "Udemy (Colt Steele)",
+    "link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    "type": "Course",
+    "_id": "587f56ea-12b2-4e51-8e0b-f24a0b6aa31a"
+  },
+  {
+    "id": "cert_se_1",
+    "career_id": "software_engineer",
+    "title": "AWS Certified Developer - Associate",
+    "platform": "Amazon Web Services",
+    "link": "https://aws.amazon.com/certification/certified-developer-associate/",
+    "type": "Certification",
+    "_id": "1063464c-22b0-4d58-81fd-039a1ac5da9e"
+  },
+  {
+    "id": "course_ai_1",
+    "career_id": "ai_engineer",
+    "title": "Machine Learning Zoomcamp",
+    "platform": "DataTalksClub",
+    "link": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "type": "Course",
+    "_id": "a88f002a-86e3-42cc-b2d9-f7b62754c42c"
+  },
+  {
+    "id": "course_ai_2",
+    "career_id": "ai_engineer",
+    "title": "Deep Learning Specialization",
+    "platform": "Coursera (DeepLearning.AI)",
+    "link": "https://www.coursera.org/specializations/deep-learning",
+    "type": "Course",
+    "_id": "b47db1e3-a305-4ebe-8a6b-c83f89f1f501"
+  },
+  {
+    "id": "cert_ai_1",
+    "career_id": "ai_engineer",
+    "title": "Google Cloud Professional ML Engineer",
+    "platform": "Google Cloud",
+    "link": "https://cloud.google.com/learn/certification/machine-learning-engineer",
+    "type": "Certification",
+    "_id": "8340041f-cb7c-4e03-b5f2-363f6d616ac4"
+  },
+  {
+    "id": "course_da_1",
+    "career_id": "data_analyst",
+    "title": "Google Data Analytics Professional Certificate",
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/professional-certificates/google-data-analytics",
+    "type": "Course",
+    "_id": "6f971295-bb93-4bdd-8514-4881c02cc692"
+  },
+  {
+    "id": "course_da_2",
+    "career_id": "data_analyst",
+    "title": "Data Analysis with Python",
+    "platform": "freeCodeCamp",
+    "link": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+    "type": "Course",
+    "_id": "c6efbbce-fb01-4b08-b942-7e74ef9d3265"
+  },
+  {
+    "id": "cert_da_1",
+    "career_id": "data_analyst",
+    "title": "Microsoft Certified: Power BI Data Analyst Associate",
+    "platform": "Microsoft",
+    "link": "https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/",
+    "type": "Certification",
+    "_id": "82ef7ead-ecda-4842-b22f-e2fc7a6f2e38"
+  },
+  {
+    "id": "course_def_1",
+    "career_id": "defence_officer",
+    "title": "Strategic Leadership and Decision Making",
+    "platform": "Coursera (Open University)",
+    "link": "https://www.coursera.org/",
+    "type": "Course",
+    "_id": "9084b2ed-aac7-48e5-aa47-d02ceffd5bbe"
+  },
+  {
+    "id": "cert_def_1",
+    "career_id": "defence_officer",
+    "title": "NCC 'C' Certificate (National Cadet Corps)",
+    "platform": "Ministry of Defence, India",
+    "link": "https://indiancc.nic.in/",
+    "type": "Certification",
+    "_id": "25454016-b6dd-4cd6-8b62-7cee0d73557b"
+  },
+  {
+    "id": "course_pol_1",
+    "career_id": "police_officer",
+    "title": "Introduction to Criminal Psychology",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/",
+    "type": "Course",
+    "_id": "6b807f25-854d-4393-9e43-49e789425854"
+  },
+  {
+    "id": "course_ops_1",
+    "career_id": "operations_manager",
+    "title": "Operations Management: Strategy and Standards",
+    "platform": "edX (Wharton)",
+    "link": "https://www.edx.org/",
+    "type": "Course",
+    "_id": "b79aa638-c6bb-437e-b7fc-2fe88a6fd0d9"
+  },
+  {
+    "id": "cert_ops_1",
+    "career_id": "operations_manager",
+    "title": "Six Sigma Green Belt Certification",
+    "platform": "ASQ",
+    "link": "https://asq.org/cert/six-sigma-green-belt",
+    "type": "Certification",
+    "_id": "abc406e6-6fa9-41bb-bfdd-0f049dbc1344"
+  },
+  {
+    "id": "course_civ_1",
+    "career_id": "civil_services",
+    "title": "Indian Polity & Public Administration Foundation",
+    "platform": "NPTEL / Swayam",
+    "link": "https://swayam.gov.in/",
+    "type": "Course",
+    "_id": "a64be2bb-b917-4a1b-a8ff-1217de62a0fa"
+  },
+  {
+    "id": "course_hr_1",
+    "career_id": "hr_executive",
+    "title": "Human Resource Management: HR for People Managers",
+    "platform": "Coursera (University of Minnesota)",
+    "link": "https://www.coursera.org/specializations/human-resource-management",
+    "type": "Course",
+    "_id": "df332cfa-b46d-411f-b2fe-7d3a2e2e75ee"
+  },
+  {
+    "id": "cert_hr_1",
+    "career_id": "hr_executive",
+    "title": "Associate Professional in Human Resources (aPHR)",
+    "platform": "HRCI",
+    "link": "https://www.hrci.org/our-programs/our-certifications/aphr",
+    "type": "Certification",
+    "_id": "48a60530-f77d-4fd3-a893-420009e49ea2"
+  },
+  {
+    "id": "course_ngo_1",
+    "career_id": "ngo_manager",
+    "title": "Nonprofit Management and Social Innovation",
+    "platform": "edX (Harvard University)",
+    "link": "https://www.edx.org/",
+    "type": "Course",
+    "_id": "03fca432-c621-4dda-93f2-4c885e3894fc"
+  },
+  {
+    "id": "course_pr_1",
+    "career_id": "pr_officer",
+    "title": "Public Relations Campaigns & Strategy",
+    "platform": "Coursera (National University of Singapore)",
+    "link": "https://www.coursera.org/",
+    "type": "Course",
+    "_id": "d3a55126-1754-4998-ae8a-d78eea48a7b1"
+  },
+  {
+    "id": "course_soc_1",
+    "career_id": "social_worker",
+    "title": "Introduction to Social Work & Community Advocacy",
+    "platform": "Coursera (Michigan University)",
+    "link": "https://www.coursera.org/",
+    "type": "Course",
+    "_id": "17e56838-a893-4379-ba56-968af3d54e7e"
+  },
+  {
+    "id": "course_ba_1",
+    "career_id": "business_analyst",
+    "title": "Business Analysis & Process Modeling",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/",
+    "type": "Course",
+    "_id": "bee22237-2d75-443c-af32-ab499d0aae94"
+  },
+  {
+    "id": "cert_ba_1",
+    "career_id": "business_analyst",
+    "title": "Entry Certificate in Business Analysis (ECBA)",
+    "platform": "IIBA",
+    "link": "https://www.iiba.org/certification/core-business-analysis-certifications/ecba/",
+    "type": "Certification",
+    "_id": "7cc42d32-91d1-4312-8671-b09b68ea2aaf"
+  },
+  {
+    "id": "course_pm_1",
+    "career_id": "product_manager",
+    "title": "Brand and Product Management",
+    "platform": "Coursera (IE Business School)",
+    "link": "https://www.coursera.org/learn/brand-management",
+    "type": "Course",
+    "_id": "815b2a60-4823-4175-86e6-788b2c47ff53"
+  },
+  {
+    "id": "cert_pm_1",
+    "career_id": "product_manager",
+    "title": "Certified Scrum Product Owner (CSPO)",
+    "platform": "Scrum Alliance",
+    "link": "https://www.scrumalliance.org/get-certified/product-owner-certification",
+    "type": "Certification",
+    "_id": "7586f322-6dd9-4048-a40a-49f267869c78"
+  },
+  {
+    "id": "course_ent_1",
+    "career_id": "entrepreneur",
+    "title": "Startup School",
+    "platform": "Y Combinator",
+    "link": "https://www.startupschool.org/",
+    "type": "Course",
+    "_id": "4f10fcbe-7940-46d5-ad6e-88058a9e52d9"
+  },
+  {
+    "id": "course_ds_1",
+    "career_id": "data_scientist",
+    "title": "Machine Learning Specialization",
+    "platform": "Coursera (Stanford / DeepLearning.AI)",
+    "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "type": "Course",
+    "_id": "4b279061-f384-4aea-9600-b3d2220c68ff"
+  },
+  {
+    "id": "course_de_1",
+    "career_id": "data_engineer",
+    "title": "Data Engineering with Google Cloud",
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/specializations/gcp-data-engineering",
+    "type": "Course",
+    "_id": "1426118f-7ad3-40d6-89ff-848e39653603"
+  },
+  {
+    "id": "course_web_1",
+    "career_id": "web_developer",
+    "title": "The Web Developer Bootcamp",
+    "platform": "Udemy (Colt Steele)",
+    "link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+    "type": "Course",
+    "_id": "25a745ca-0c00-4400-bd1e-e8b864a515ae"
+  },
+  {
+    "id": "course_be_1",
+    "career_id": "backend_developer",
+    "title": "Backend Development with Node.js",
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/",
+    "type": "Course",
+    "_id": "6016f1ba-08f1-4ebc-8367-5f2e5cd2043b"
+  },
+  {
+    "id": "course_java_1",
+    "career_id": "java_developer",
+    "title": "Java Programming Masterclass",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/",
+    "type": "Course",
+    "_id": "e27cafef-4b3a-4a10-a6c6-3527d1ba344e"
+  },
+  {
+    "id": "course_cloud_1",
+    "career_id": "cloud_engineer",
+    "title": "AWS Certified Solutions Architect",
+    "platform": "AWS Training",
+    "link": "https://aws.amazon.com/training/",
+    "type": "Course",
+    "_id": "f144aad8-8b87-4315-8890-a3b308c27d62"
+  },
+  {
+    "id": "course_cyber_1",
+    "career_id": "cyber_security_analyst",
+    "title": "Google Cybersecurity Professional Certificate",
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/professional-certificates/google-cybersecurity",
+    "type": "Course",
+    "_id": "32acff03-3f64-41ef-a65a-3f2fdba56fac"
+  },
+  {
+    "id": "course_civil_1",
+    "career_id": "civil_engineer",
+    "title": "Structural Analysis and Design",
+    "platform": "NPTEL",
+    "link": "https://nptel.ac.in/",
+    "type": "Course",
+    "_id": "23f90cfc-a437-47a2-838b-220ea9c5f002"
+  },
+  {
+    "id": "course_mech_1",
+    "career_id": "mechanical_engineer",
+    "title": "Engineering Mechanics",
+    "platform": "NPTEL",
+    "link": "https://nptel.ac.in/",
+    "type": "Course",
+    "_id": "46696d10-dea6-4280-9dec-a00ec8410a1e"
+  },
+  {
+    "id": "course_teacher_1",
+    "career_id": "teacher",
+    "title": "Learning to Teach Online",
+    "platform": "Coursera",
+    "link": "https://www.coursera.org/learn/teach-online",
+    "type": "Course",
+    "_id": "5bb1fd2a-ebb6-4ed0-9941-b09f23741c09"
+  },
+  {
+    "id": "course_sales_1",
+    "career_id": "sales_executive",
+    "title": "Sales Training: Practical Sales Techniques",
+    "platform": "Udemy",
+    "link": "https://www.udemy.com/",
+    "type": "Course",
+    "_id": "78826292-78c7-4039-87d3-3553f1308d79"
+  }
+]

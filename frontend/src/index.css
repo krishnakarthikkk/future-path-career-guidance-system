@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+}
+
+/* Glassmorphism custom classes */
+.glass-panel {
+  @apply bg-white/80 backdrop-blur-md border border-purple-100/30 shadow-glass transition-all duration-300;
+}
+
+.dark .glass-panel {
+  @apply bg-slate-950/80 backdrop-blur-md border border-slate-900 shadow-glass-dark transition-all duration-300;
+}
+
+.glass-card {
+  @apply bg-white/60 backdrop-blur-sm border border-purple-50/40 shadow-sm rounded-2xl p-6 transition-all duration-300 hover:shadow-md hover:border-purple-200/50;
+}
+
+.dark .glass-card {
+  @apply bg-slate-900/60 backdrop-blur-sm border border-slate-800/30 shadow-none rounded-2xl p-6 transition-all duration-300 hover:shadow-lg hover:border-purple-900/30;
+}
+
+/* Smooth custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-purple-200 rounded-full dark:bg-purple-900/50;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-purple-300 dark:bg-purple-800;
+}
+
+/* Form elements styling */
+.form-input {
+  @apply w-full px-4 py-2.5 bg-white border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all duration-200 dark:bg-slate-900 dark:border-slate-800 dark:focus:ring-purple-600 dark:text-slate-100;
+}
+
+.form-select {
+  @apply w-full px-4 py-2.5 bg-white border border-slate-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all duration-200 dark:bg-slate-900 dark:border-slate-800 dark:focus:ring-purple-600 dark:text-slate-100;
+}
+
+.form-checkbox {
+  @apply h-5 w-5 rounded border-slate-300 text-purple-600 focus:ring-purple-500 dark:border-slate-800 dark:bg-slate-900 dark:focus:ring-purple-600;
+}
+
+.form-label {
+  @apply block text-sm font-semibold text-slate-700 mb-1.5 dark:text-slate-300;
+}
+
+.btn-primary {
+  @apply px-5 py-2.5 bg-purple-600 text-white font-medium rounded-xl hover:bg-purple-700 focus:ring-4 focus:ring-purple-300 focus:outline-none transition-all duration-200 dark:bg-purple-700 dark:hover:bg-purple-600 dark:focus:ring-purple-900 shadow-md shadow-purple-600/10 hover:shadow-purple-600/20 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none;
+}
+
+.btn-secondary {
+  @apply px-5 py-2.5 bg-white text-slate-700 font-medium rounded-xl border border-slate-200 hover:bg-slate-50 focus:ring-4 focus:ring-slate-100 focus:outline-none transition-all duration-200 dark:bg-slate-900 dark:text-slate-300 dark:border-slate-800 dark:hover:bg-slate-800/50 dark:focus:ring-slate-900 active:scale-[0.98] disabled:opacity-50 disabled:pointer-events-none;
+}

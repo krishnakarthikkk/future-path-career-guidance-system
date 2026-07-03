@@ -1,0 +1,16 @@
+[
+  {
+    "name": "krishna karthik",
+    "email": "23eg112a47@anurag.edu.in",
+    "password": "$2b$12$hswh3mhxbvjyPYqmu19Yc.MlUetM62Kqds/uZRZlKIQ4alp0orIPu",
+    "created_at": "2026-06-16T12:55:08.932700",
+    "_id": "3d2c621c-db00-4a93-9d68-7c50e5c6de3a"
+  },
+  {
+    "name": "kritika",
+    "email": "akrthik123@gmail.com",
+    "password": "$2b$12$YBWX7lqccwTC6m8CPrPB8uTvFYcb.y7N8eM8J1ux6Mmw7q.5J0ydG",
+    "created_at": "2026-06-16T15:17:51.489691",
+    "_id": "a4e140c3-992c-4723-a80e-bd9b44a70989"
+  }
+]

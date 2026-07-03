@@ -1,0 +1,673 @@
+[
+  {
+    "id": "software_engineer",
+    "title": "Software Engineer",
+    "description": "Designs, develops, and maintains software applications and systems. Focuses on coding, debugging, and software architecture.",
+    "required_skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++",
+      "Data Structures",
+      "Algorithms",
+      "Web Development",
+      "Git"
+    ],
+    "average_salary": "8 - 20 LPA",
+    "career_growth": "High (Strong demand for full-stack, backend, and frontend developers with path to Tech Lead and Architect roles)",
+    "hiring_companies": [
+      "Google",
+      "Microsoft",
+      "Amazon",
+      "TCS",
+      "Infosys",
+      "Wipro"
+    ],
+    "required_certifications": [
+      "AWS Certified Developer",
+      "Oracle Certified Professional Java SE"
+    ]
+  },
+  {
+    "id": "ai_engineer",
+    "title": "AI/ML Engineer",
+    "description": "Builds and deploys machine learning and deep learning models to automate tasks and solve complex analytical problems.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Probability & Statistics",
+      "Algorithms"
+    ],
+    "average_salary": "10 - 25 LPA",
+    "career_growth": "Exponential (Explosive growth driven by AI advancements, leading to research and leadership roles)",
+    "hiring_companies": [
+      "NVIDIA",
+      "Meta",
+      "Google",
+      "OpenAI",
+      "Accenture",
+      "Cognizant"
+    ],
+    "required_certifications": [
+      "Google Cloud Professional Machine Learning Engineer",
+      "AWS Certified Machine Learning - Specialty"
+    ]
+  },
+  {
+    "id": "data_analyst",
+    "title": "Data Analyst",
+    "description": "Collects, processes, and performs statistical analyses on large datasets to help businesses make informed decisions.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Excel",
+      "Tableau",
+      "PowerBI",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "average_salary": "6 - 12 LPA",
+    "career_growth": "Steady (Essential role across all industries; paths to Senior Data Analyst and Data Scientist)",
+    "hiring_companies": [
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "PwC",
+      "Amazon",
+      "Walmart"
+    ],
+    "required_certifications": [
+      "Google Data Analytics Professional Certificate",
+      "Microsoft Certified: Power BI Data Analyst Associate"
+    ]
+  },
+  {
+    "id": "defence_officer",
+    "title": "Defence Officer",
+    "description": "Serves in the military forces (Army, Navy, Air Force) providing leadership, strategic planning, and security operations.",
+    "required_skills": [
+      "Leadership",
+      "Physical Fitness",
+      "Strategic Planning",
+      "Teamwork",
+      "Problem Solving",
+      "NCC C-Certificate"
+    ],
+    "average_salary": "12 - 18 LPA",
+    "career_growth": "High (Structured promotions through military ranks up to General officer levels with high prestige)",
+    "hiring_companies": [
+      "Indian Army",
+      "Indian Navy",
+      "Indian Air Force"
+    ],
+    "required_certifications": [
+      "Service Selection Board (SSB) Qualification",
+      "NCC Certificate"
+    ]
+  },
+  {
+    "id": "police_officer",
+    "title": "Police Officer",
+    "description": "Maintains law and order, protects the public, investigates crimes, and ensures traffic safety and legal compliance.",
+    "required_skills": [
+      "Leadership",
+      "Physical Fitness",
+      "Crisis Management",
+      "Communication",
+      "Teamwork",
+      "Public Speaking"
+    ],
+    "average_salary": "7 - 14 LPA",
+    "career_growth": "Steady (Structured career path from Sub-Inspector/Assistant Commissioner to Superintendent of Police)",
+    "hiring_companies": [
+      "State Police Departments",
+      "Central Reserve Police Force (CRPF)",
+      "CBI"
+    ],
+    "required_certifications": [
+      "State Public Service Commission Exam",
+      "IPS Civil Services Exam"
+    ]
+  },
+  {
+    "id": "operations_manager",
+    "title": "Operations Manager",
+    "description": "Oversees the production of goods and/or provision of services. Ensures resources are utilized efficiently.",
+    "required_skills": [
+      "Leadership",
+      "Communication",
+      "Project Management",
+      "Problem Solving",
+      "Strategic Planning",
+      "Teamwork"
+    ],
+    "average_salary": "10 - 20 LPA",
+    "career_growth": "High (Critical for manufacturing, logistics, and tech companies; path to Chief Operating Officer)",
+    "hiring_companies": [
+      "Amazon",
+      "Flipkart",
+      "DHL",
+      "Tata Motors",
+      "Reliance Industries"
+    ],
+    "required_certifications": [
+      "Project Management Professional (PMP)",
+      "Six Sigma Green/Black Belt"
+    ]
+  },
+  {
+    "id": "civil_services",
+    "title": "Civil Services",
+    "description": "Administers government policies, manages public administration departments, and implements socio-economic development plans.",
+    "required_skills": [
+      "Leadership",
+      "Communication",
+      "Public Speaking",
+      "Problem Solving",
+      "Decision Making",
+      "NSS/NCC Experience"
+    ],
+    "average_salary": "8 - 15 LPA",
+    "career_growth": "Prestige-heavy (Structured rank growth up to Cabinet Secretary with high societal impact)",
+    "hiring_companies": [
+      "Union Public Service Commission (UPSC)",
+      "State Administrative Services"
+    ],
+    "required_certifications": [
+      "UPSC Civil Services Exam (IAS/IFS/IPS)"
+    ]
+  },
+  {
+    "id": "hr_executive",
+    "title": "HR Executive",
+    "description": "Manages employee recruitment, relations, training, and policy administration within an organization.",
+    "required_skills": [
+      "Communication",
+      "Teamwork",
+      "Conflict Resolution",
+      "Leadership",
+      "NSS/Volunteering"
+    ],
+    "average_salary": "5 - 10 LPA",
+    "career_growth": "Steady (Transition to HR Manager, Director of HR, and Chief Human Resources Officer)",
+    "hiring_companies": [
+      "TCS",
+      "Accenture",
+      "HDFC Bank",
+      "IBM",
+      "Infosys"
+    ],
+    "required_certifications": [
+      "SHRM Certified Professional (SHRM-CP)",
+      "PHR Certification"
+    ]
+  },
+  {
+    "id": "ngo_manager",
+    "title": "NGO Manager",
+    "description": "Directs activities of non-profit organizations, including fundraising, program coordination, and community outreach.",
+    "required_skills": [
+      "NSS/Volunteering",
+      "Communication",
+      "Leadership",
+      "Fundraising",
+      "Project Management",
+      "Teamwork"
+    ],
+    "average_salary": "6 - 12 LPA",
+    "career_growth": "Rewarding (Path to Executive Director of international NGOs or United Nations departments)",
+    "hiring_companies": [
+      "Teach For India",
+      "CRY",
+      "UNICEF",
+      "Amnesty International",
+      "Red Cross"
+    ],
+    "required_certifications": [
+      "Nonprofit Management Certification"
+    ]
+  },
+  {
+    "id": "pr_officer",
+    "title": "Public Relations Officer",
+    "description": "Manages the public image and communications of a company, organization, or public figure.",
+    "required_skills": [
+      "Communication",
+      "Public Speaking",
+      "Writing Skills",
+      "Teamwork",
+      "NSS/Volunteering"
+    ],
+    "average_salary": "6 - 14 LPA",
+    "career_growth": "High (Crucial role in digital brand management; paths to Corporate Communications Director)",
+    "hiring_companies": [
+      "Edelman",
+      "Genesis BCW",
+      "Reliance",
+      "Airtel",
+      "Adani Group"
+    ],
+    "required_certifications": [
+      "Accreditation in Public Relations (APR)"
+    ]
+  },
+  {
+    "id": "social_worker",
+    "title": "Social Worker",
+    "description": "Helps individuals, families, and communities solve and cope with problems in their everyday lives.",
+    "required_skills": [
+      "NSS/Volunteering",
+      "Communication",
+      "Empathy",
+      "Teamwork",
+      "Problem Solving"
+    ],
+    "average_salary": "4 - 8 LPA",
+    "career_growth": "Steady (Growth within governmental social welfare wings, hospital boards, and NGOs)",
+    "hiring_companies": [
+      "Government Welfare Departments",
+      "Helpage India",
+      "Smile Foundation",
+      "UN"
+    ],
+    "required_certifications": [
+      "Master of Social Work (MSW) Licensing"
+    ]
+  },
+  {
+    "id": "business_analyst",
+    "title": "Business Analyst",
+    "description": "Bridges the gap between IT and the business using data analytics to assess processes and deliver data-driven recommendations.",
+    "required_skills": [
+      "SQL",
+      "Excel",
+      "Communication",
+      "Problem Solving",
+      "Management",
+      "Project Management",
+      "Leadership"
+    ],
+    "average_salary": "7 - 15 LPA",
+    "career_growth": "High (Path to Product Manager, Management Consultant, or Director of Business Operations)",
+    "hiring_companies": [
+      "McKinsey",
+      "BCG",
+      "Cognizant",
+      "Capgemini",
+      "Amazon",
+      "HSBC"
+    ],
+    "required_certifications": [
+      "Certified Business Analysis Professional (CBAP)",
+      "PMI-PBA Certification"
+    ]
+  },
+  {
+    "id": "product_manager",
+    "title": "Product Manager",
+    "description": "Guides the cross-functional development of a product from conception to launch. Coordinates design, engineering, and marketing.",
+    "required_skills": [
+      "Leadership",
+      "Communication",
+      "Project Management",
+      "Problem Solving",
+      "Management",
+      "Strategic Planning"
+    ],
+    "average_salary": "12 - 30 LPA",
+    "career_growth": "Very High (Highly coveted position; path to Director of Product, VP of Product, and CEO)",
+    "hiring_companies": [
+      "Google",
+      "Paytm",
+      "Zomato",
+      "PhonePe",
+      "Flipkart",
+      "Uber"
+    ],
+    "required_certifications": [
+      "Product Management Certification (e.g., Pragmatic Institute)",
+      "Agile/Scrum Product Owner"
+    ]
+  },
+  {
+    "id": "entrepreneur",
+    "title": "Entrepreneur",
+    "description": "Launches and runs a new business venture. Takes on financial risks in the hope of creating a profitable enterprise.",
+    "required_skills": [
+      "Leadership",
+      "Communication",
+      "Problem Solving",
+      "Management",
+      "Entrepreneurship",
+      "Financial Literacy",
+      "Risk Taking"
+    ],
+    "average_salary": "Variable",
+    "career_growth": "High Impact (Building startups, scaling operations, potential to become a founder/CEO)",
+    "hiring_companies": [
+      "Independent Startups",
+      "Venture Studios",
+      "Self-Owned Ventures"
+    ],
+    "required_certifications": [
+      "Y Combinator Startup School",
+      "MBA / Entrepreneurship Bootcamp"
+    ]
+  },
+  {
+    "id": "data_scientist",
+    "title": "Data Scientist",
+    "description": "Builds predictive models, experiments with data, and turns raw information into business insights.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "Statistics",
+      "Data Visualization",
+      "Deep Learning",
+      "Communication"
+    ],
+    "average_salary": "10 - 25 LPA",
+    "career_growth": "Exponential (Strong growth in analytics, AI, product, and research teams)",
+    "hiring_companies": [
+      "Google",
+      "Amazon",
+      "Meta",
+      "Microsoft",
+      "Fractal",
+      "TCS"
+    ],
+    "required_certifications": [
+      "IBM Data Science Professional Certificate",
+      "Google Advanced Data Analytics"
+    ],
+    "_id": "b3f2b081-38b0-4e67-b2fa-eeac3e2f2c07"
+  },
+  {
+    "id": "data_engineer",
+    "title": "Data Engineer",
+    "description": "Designs reliable data pipelines, storage systems, and analytics infrastructure for large-scale teams.",
+    "required_skills": [
+      "Python",
+      "SQL",
+      "ETL",
+      "Data Warehousing",
+      "Cloud Platforms",
+      "Apache Spark",
+      "Linux"
+    ],
+    "average_salary": "9 - 22 LPA",
+    "career_growth": "High (Growing demand across product, fintech, and enterprise data teams)",
+    "hiring_companies": [
+      "Amazon",
+      "Flipkart",
+      "Google",
+      "Infosys",
+      "Walmart",
+      "Accenture"
+    ],
+    "required_certifications": [
+      "Google Cloud Professional Data Engineer",
+      "Microsoft Azure Data Engineer Associate"
+    ],
+    "_id": "5db48259-2be4-4721-a002-b1be5163dde3"
+  },
+  {
+    "id": "web_developer",
+    "title": "Web Developer",
+    "description": "Builds responsive websites and web applications using modern front-end and back-end tools.",
+    "required_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Git",
+      "API Integration"
+    ],
+    "average_salary": "6 - 15 LPA",
+    "career_growth": "High (Strong entry point into product development and full-stack engineering)",
+    "hiring_companies": [
+      "Google",
+      "Zoho",
+      "Infosys",
+      "TCS",
+      "Wipro",
+      "Freshworks"
+    ],
+    "required_certifications": [
+      "Meta Front-End Developer Professional Certificate",
+      "FreeCodeCamp Responsive Web Design"
+    ],
+    "_id": "eafc6810-6faa-4854-928c-164fd22f9b2c"
+  },
+  {
+    "id": "backend_developer",
+    "title": "Back End Developer",
+    "description": "Builds server-side logic, APIs, and database systems that power web and mobile products.",
+    "required_skills": [
+      "Node.js",
+      "Python",
+      "Java",
+      "SQL",
+      "APIs",
+      "Databases",
+      "System Design"
+    ],
+    "average_salary": "7 - 18 LPA",
+    "career_growth": "High (Pathway to senior backend engineer and platform architect roles)",
+    "hiring_companies": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Uber",
+      "Swiggy",
+      "Razorpay"
+    ],
+    "required_certifications": [
+      "AWS Certified Developer",
+      "Oracle Java Certification"
+    ],
+    "_id": "b259050f-6f20-456b-9fa7-a1ca5a5ccecb"
+  },
+  {
+    "id": "java_developer",
+    "title": "Java Developer",
+    "description": "Develops enterprise applications, services, and backend systems using the Java ecosystem.",
+    "required_skills": [
+      "Java",
+      "Spring Boot",
+      "REST APIs",
+      "SQL",
+      "Git",
+      "OOP",
+      "Problem Solving"
+    ],
+    "average_salary": "6 - 16 LPA",
+    "career_growth": "High (Large demand in enterprise software and backend services)",
+    "hiring_companies": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Capgemini",
+      "Cognizant",
+      "HCL"
+    ],
+    "required_certifications": [
+      "Oracle Certified Professional Java SE",
+      "Spring Professional Certification"
+    ],
+    "_id": "a07a731e-f135-457e-98e7-b671c2867228"
+  },
+  {
+    "id": "cloud_engineer",
+    "title": "Cloud Engineer",
+    "description": "Deploys and manages cloud infrastructure, automation, and scalable production systems.",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "Networking",
+      "Python"
+    ],
+    "average_salary": "10 - 24 LPA",
+    "career_growth": "High (Critical role for cloud migration, platform engineering, and DevOps)",
+    "hiring_companies": [
+      "Amazon",
+      "Microsoft",
+      "Google",
+      "IBM",
+      "Accenture",
+      "Cognizant"
+    ],
+    "required_certifications": [
+      "AWS Certified Solutions Architect",
+      "Microsoft Azure Administrator Associate"
+    ],
+    "_id": "499c2f0e-b33d-4915-9258-cdfa10f6b87d"
+  },
+  {
+    "id": "cyber_security_analyst",
+    "title": "Cyber Security Analyst",
+    "description": "Protects systems and data by monitoring threats, responding to incidents, and improving defenses.",
+    "required_skills": [
+      "Networking",
+      "Linux",
+      "Risk Analysis",
+      "Incident Response",
+      "Python",
+      "Security Tools",
+      "Problem Solving"
+    ],
+    "average_salary": "8 - 20 LPA",
+    "career_growth": "High (Increasing demand across enterprise security and compliance teams)",
+    "hiring_companies": [
+      "Palo Alto Networks",
+      "TCS",
+      "IBM",
+      "Cisco",
+      "Wipro",
+      "Deloitte"
+    ],
+    "required_certifications": [
+      "CompTIA Security+",
+      "Certified Ethical Hacker (CEH)"
+    ],
+    "_id": "c41756ac-0a80-4086-a391-7d976c2f60c5"
+  },
+  {
+    "id": "civil_engineer",
+    "title": "Civil Engineer",
+    "description": "Designs, supervises, and maintains infrastructure projects such as roads, buildings, and bridges.",
+    "required_skills": [
+      "AutoCAD",
+      "Structural Analysis",
+      "Project Management",
+      "Site Planning",
+      "Problem Solving",
+      "Teamwork"
+    ],
+    "average_salary": "5 - 14 LPA",
+    "career_growth": "Steady (Growth through site leadership, planning, and infrastructure consulting)",
+    "hiring_companies": [
+      "L&T",
+      "Tata Projects",
+      "Schneider",
+      "AECOM",
+      "NBCC",
+      "Deloitte"
+    ],
+    "required_certifications": [
+      "AutoCAD Certification",
+      "Project Management Professional (PMP)"
+    ],
+    "_id": "51951b84-5e37-4578-bada-a14d71323281"
+  },
+  {
+    "id": "mechanical_engineer",
+    "title": "Mechanical Engineer",
+    "description": "Designs, tests, and improves mechanical systems, machines, and manufacturing processes.",
+    "required_skills": [
+      "CAD",
+      "Thermodynamics",
+      "Manufacturing",
+      "Problem Solving",
+      "Teamwork",
+      "Analytical Thinking"
+    ],
+    "average_salary": "5 - 13 LPA",
+    "career_growth": "Steady (Strong opportunities in manufacturing, automotive, and product design)",
+    "hiring_companies": [
+      "Tata Motors",
+      "Mahindra",
+      "Bosch",
+      "Siemens",
+      "L&T",
+      "Ashok Leyland"
+    ],
+    "required_certifications": [
+      "SolidWorks Certification",
+      "AutoCAD Mechanical Certification"
+    ],
+    "_id": "ac11bafd-9369-41e2-a267-620857bac5bb"
+  },
+  {
+    "id": "teacher",
+    "title": "Teacher",
+    "description": "Educates students, designs lesson plans, and supports academic and personal development.",
+    "required_skills": [
+      "Communication",
+      "Public Speaking",
+      "Patience",
+      "Subject Knowledge",
+      "Leadership",
+      "Empathy"
+    ],
+    "average_salary": "4 - 10 LPA",
+    "career_growth": "Steady (Progression into senior faculty, academic coordinator, and school leadership roles)",
+    "hiring_companies": [
+      "Schools",
+      "Colleges",
+      "EdTech Firms",
+      "Coaching Institutes"
+    ],
+    "required_certifications": [
+      "B.Ed / D.El.Ed",
+      "Teacher Eligibility Test (TET/CTET)"
+    ],
+    "_id": "769bd17b-afd1-47fe-a2f8-8ff5709b0048"
+  },
+  {
+    "id": "sales_executive",
+    "title": "Sales Executive",
+    "description": "Drives revenue by identifying prospects, pitching solutions, and building long-term client relationships.",
+    "required_skills": [
+      "Communication",
+      "Negotiation",
+      "Presentation Skills",
+      "Relationship Building",
+      "CRM Tools",
+      "Target Orientation"
+    ],
+    "average_salary": "4 - 12 LPA",
+    "career_growth": "High (Path to account manager, sales manager, and business head roles)",
+    "hiring_companies": [
+      "HDFC",
+      "Byju's",
+      "Amazon",
+      "Tata",
+      "Reliance",
+      "Infosys"
+    ],
+    "required_certifications": [
+      "Salesforce Certification",
+      "Digital Sales Certification"
+    ],
+    "_id": "40683478-80a4-480b-bb72-d70e8bf29409"
+  }
+]

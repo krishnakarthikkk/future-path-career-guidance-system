@@ -1,0 +1,484 @@
+[
+  {
+    "user_id": "3d2c621c-db00-4a93-9d68-7c50e5c6de3a",
+    "recommendations": [
+      {
+        "career_id": "backend_developer",
+        "title": "Back End Developer",
+        "score": 40,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 3 of 7 core skills: Python, Java, SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Teamwork.",
+          "Matched against 23 similar alumni profiles in the dataset, including a profile that led to PAT."
+        ],
+        "missing_skills": [
+          "Node.js",
+          "APIs",
+          "Databases",
+          "System Design"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_be_1",
+            "career_id": "backend_developer",
+            "title": "Backend Development with Node.js",
+            "platform": "Coursera",
+            "link": "https://www.coursera.org/",
+            "type": "Course",
+            "_id": "6016f1ba-08f1-4ebc-8367-5f2e5cd2043b"
+          }
+        ],
+        "average_salary": "7 - 18 LPA",
+        "hiring_companies": [
+          "Amazon",
+          "Google",
+          "Microsoft",
+          "Uber",
+          "Swiggy",
+          "Razorpay"
+        ],
+        "required_certifications": [
+          "AWS Certified Developer",
+          "Oracle Java Certification"
+        ],
+        "dataset_support": 23
+      },
+      {
+        "career_id": "java_developer",
+        "title": "Java Developer",
+        "score": 38,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 2 of 7 core skills: Java, SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Teamwork.",
+          "Matched against 71 similar alumni profiles in the dataset, including a profile that led to Java Developer."
+        ],
+        "missing_skills": [
+          "Spring Boot",
+          "REST APIs",
+          "Git",
+          "OOP",
+          "Problem Solving"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_java_1",
+            "career_id": "java_developer",
+            "title": "Java Programming Masterclass",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/",
+            "type": "Course",
+            "_id": "e27cafef-4b3a-4a10-a6c6-3527d1ba344e"
+          }
+        ],
+        "average_salary": "6 - 16 LPA",
+        "hiring_companies": [
+          "TCS",
+          "Infosys",
+          "Wipro",
+          "Capgemini",
+          "Cognizant",
+          "HCL"
+        ],
+        "required_certifications": [
+          "Oracle Certified Professional Java SE",
+          "Spring Professional Certification"
+        ],
+        "dataset_support": 71
+      },
+      {
+        "career_id": "data_scientist",
+        "title": "Data Scientist",
+        "score": 37,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 2 of 7 core skills: Python, SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Communication.",
+          "Matched against 133 similar alumni profiles in the dataset, including a profile that led to Data Analyst."
+        ],
+        "missing_skills": [
+          "Machine Learning",
+          "Statistics",
+          "Data Visualization",
+          "Deep Learning",
+          "Communication"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_ds_1",
+            "career_id": "data_scientist",
+            "title": "Machine Learning Specialization",
+            "platform": "Coursera (Stanford / DeepLearning.AI)",
+            "link": "https://www.coursera.org/specializations/machine-learning-introduction",
+            "type": "Course",
+            "_id": "4b279061-f384-4aea-9600-b3d2220c68ff"
+          }
+        ],
+        "average_salary": "10 - 25 LPA",
+        "hiring_companies": [
+          "Google",
+          "Amazon",
+          "Meta",
+          "Microsoft",
+          "Fractal",
+          "TCS"
+        ],
+        "required_certifications": [
+          "IBM Data Science Professional Certificate",
+          "Google Advanced Data Analytics"
+        ],
+        "dataset_support": 133
+      },
+      {
+        "career_id": "cloud_engineer",
+        "title": "Cloud Engineer",
+        "score": 36,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 1 of 7 core skills: Python.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Communication and Teamwork.",
+          "Matched against 39 similar alumni profiles in the dataset, including a profile that led to CIS."
+        ],
+        "missing_skills": [
+          "AWS",
+          "Azure",
+          "Linux",
+          "Docker",
+          "Kubernetes",
+          "Networking"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_cloud_1",
+            "career_id": "cloud_engineer",
+            "title": "AWS Certified Solutions Architect",
+            "platform": "AWS Training",
+            "link": "https://aws.amazon.com/training/",
+            "type": "Course",
+            "_id": "f144aad8-8b87-4315-8890-a3b308c27d62"
+          }
+        ],
+        "average_salary": "10 - 24 LPA",
+        "hiring_companies": [
+          "Amazon",
+          "Microsoft",
+          "Google",
+          "IBM",
+          "Accenture",
+          "Cognizant"
+        ],
+        "required_certifications": [
+          "AWS Certified Solutions Architect",
+          "Microsoft Azure Administrator Associate"
+        ],
+        "dataset_support": 39
+      },
+      {
+        "career_id": "data_analyst",
+        "title": "Data Analyst",
+        "score": 35,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 2 of 7 core skills: Python, SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Communication.",
+          "Matched against 28 similar alumni profiles in the dataset, including a profile that led to Student (Unemployed)."
+        ],
+        "missing_skills": [
+          "Excel",
+          "Tableau",
+          "PowerBI",
+          "Statistics",
+          "Data Visualization"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_da_1",
+            "career_id": "data_analyst",
+            "title": "Google Data Analytics Professional Certificate",
+            "platform": "Coursera",
+            "link": "https://www.coursera.org/professional-certificates/google-data-analytics",
+            "type": "Course",
+            "_id": "6f971295-bb93-4bdd-8514-4881c02cc692"
+          },
+          {
+            "id": "course_da_2",
+            "career_id": "data_analyst",
+            "title": "Data Analysis with Python",
+            "platform": "freeCodeCamp",
+            "link": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
+            "type": "Course",
+            "_id": "c6efbbce-fb01-4b08-b942-7e74ef9d3265"
+          },
+          {
+            "id": "cert_da_1",
+            "career_id": "data_analyst",
+            "title": "Microsoft Certified: Power BI Data Analyst Associate",
+            "platform": "Microsoft",
+            "link": "https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/",
+            "type": "Certification",
+            "_id": "82ef7ead-ecda-4842-b22f-e2fc7a6f2e38"
+          }
+        ],
+        "average_salary": "6 - 12 LPA",
+        "hiring_companies": [
+          "Deloitte",
+          "EY",
+          "KPMG",
+          "PwC",
+          "Amazon",
+          "Walmart"
+        ],
+        "required_certifications": [
+          "Google Data Analytics Professional Certificate",
+          "Microsoft Certified: Power BI Data Analyst Associate"
+        ],
+        "dataset_support": 28
+      },
+      {
+        "career_id": "software_engineer",
+        "title": "Software Engineer",
+        "score": 34,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 2 of 8 core skills: Java, Python.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Teamwork.",
+          "Matched against 29 similar alumni profiles in the dataset, including a profile that led to R&D Engineer."
+        ],
+        "missing_skills": [
+          "JavaScript",
+          "C++",
+          "Data Structures",
+          "Algorithms",
+          "Web Development",
+          "Git"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_se_1",
+            "career_id": "software_engineer",
+            "title": "Data Structures and Algorithms Specialization",
+            "platform": "Coursera (UC San Diego)",
+            "link": "https://www.coursera.org/specializations/data-structures-algorithms",
+            "type": "Course",
+            "_id": "ea8b1dca-dfc6-499e-9d97-9082b4c2e9bb"
+          },
+          {
+            "id": "course_se_2",
+            "career_id": "software_engineer",
+            "title": "The Web Developer Bootcamp",
+            "platform": "Udemy (Colt Steele)",
+            "link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+            "type": "Course",
+            "_id": "587f56ea-12b2-4e51-8e0b-f24a0b6aa31a"
+          },
+          {
+            "id": "cert_se_1",
+            "career_id": "software_engineer",
+            "title": "AWS Certified Developer - Associate",
+            "platform": "Amazon Web Services",
+            "link": "https://aws.amazon.com/certification/certified-developer-associate/",
+            "type": "Certification",
+            "_id": "1063464c-22b0-4d58-81fd-039a1ac5da9e"
+          }
+        ],
+        "average_salary": "8 - 20 LPA",
+        "hiring_companies": [
+          "Google",
+          "Microsoft",
+          "Amazon",
+          "TCS",
+          "Infosys",
+          "Wipro"
+        ],
+        "required_certifications": [
+          "AWS Certified Developer",
+          "Oracle Certified Professional Java SE"
+        ],
+        "dataset_support": 29
+      },
+      {
+        "career_id": "pr_officer",
+        "title": "Public Relations Officer",
+        "score": 32,
+        "reasons": [
+          "Good academic baseline with CGPA \u2265 6.0.",
+          "Lacking direct core technical skills in your profile for this career.",
+          "Certified learning records support professional credentials.",
+          "Highly compatible soft skills: Communication and Public speaking.",
+          "Volunteering work highlights strong community empathy and civic engagement.",
+          "Matched against 48 similar alumni profiles in the dataset, including a profile that led to Computer Software Engineer."
+        ],
+        "missing_skills": [
+          "Communication",
+          "Public Speaking",
+          "Writing Skills",
+          "Teamwork",
+          "NSS/Volunteering"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_pr_1",
+            "career_id": "pr_officer",
+            "title": "Public Relations Campaigns & Strategy",
+            "platform": "Coursera (National University of Singapore)",
+            "link": "https://www.coursera.org/",
+            "type": "Course",
+            "_id": "d3a55126-1754-4998-ae8a-d78eea48a7b1"
+          }
+        ],
+        "average_salary": "6 - 14 LPA",
+        "hiring_companies": [
+          "Edelman",
+          "Genesis BCW",
+          "Reliance",
+          "Airtel",
+          "Adani Group"
+        ],
+        "required_certifications": [
+          "Accreditation in Public Relations (APR)"
+        ],
+        "dataset_support": 48
+      },
+      {
+        "career_id": "data_engineer",
+        "title": "Data Engineer",
+        "score": 32,
+        "reasons": [
+          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Possess 2 of 7 core skills: Python, SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Teamwork and Communication.",
+          "Matched against 11 similar alumni profiles in the dataset, including a profile that led to Gis engineer."
+        ],
+        "missing_skills": [
+          "ETL",
+          "Data Warehousing",
+          "Cloud Platforms",
+          "Apache Spark",
+          "Linux"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_de_1",
+            "career_id": "data_engineer",
+            "title": "Data Engineering with Google Cloud",
+            "platform": "Coursera",
+            "link": "https://www.coursera.org/specializations/gcp-data-engineering",
+            "type": "Course",
+            "_id": "1426118f-7ad3-40d6-89ff-848e39653603"
+          }
+        ],
+        "average_salary": "9 - 22 LPA",
+        "hiring_companies": [
+          "Amazon",
+          "Flipkart",
+          "Google",
+          "Infosys",
+          "Walmart",
+          "Accenture"
+        ],
+        "required_certifications": [
+          "Google Cloud Professional Data Engineer",
+          "Microsoft Azure Data Engineer Associate"
+        ],
+        "dataset_support": 11
+      },
+      {
+        "career_id": "sales_executive",
+        "title": "Sales Executive",
+        "score": 32,
+        "reasons": [
+          "Good academic baseline with CGPA \u2265 6.0.",
+          "Lacking direct core technical skills in your profile for this career.",
+          "Certified learning records support professional credentials.",
+          "Highly compatible soft skills: Communication and Public speaking and Teamwork.",
+          "Matched against 68 similar alumni profiles in the dataset, including a profile that led to Operations Engineer."
+        ],
+        "missing_skills": [
+          "Communication",
+          "Negotiation",
+          "Presentation Skills",
+          "Relationship Building",
+          "CRM Tools",
+          "Target Orientation"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_sales_1",
+            "career_id": "sales_executive",
+            "title": "Sales Training: Practical Sales Techniques",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/",
+            "type": "Course",
+            "_id": "78826292-78c7-4039-87d3-3553f1308d79"
+          }
+        ],
+        "average_salary": "4 - 12 LPA",
+        "hiring_companies": [
+          "HDFC",
+          "Byju's",
+          "Amazon",
+          "Tata",
+          "Reliance",
+          "Infosys"
+        ],
+        "required_certifications": [
+          "Salesforce Certification",
+          "Digital Sales Certification"
+        ],
+        "dataset_support": 68
+      },
+      {
+        "career_id": "social_worker",
+        "title": "Social Worker",
+        "score": 31,
+        "reasons": [
+          "Good academic baseline with CGPA \u2265 6.0.",
+          "Lacking direct core technical skills in your profile for this career.",
+          "Certified learning records support professional credentials.",
+          "Highly compatible soft skills: Communication and Teamwork.",
+          "Volunteering work highlights strong community empathy and civic engagement.",
+          "Matched against 60 similar alumni profiles in the dataset, including a profile that led to Not working."
+        ],
+        "missing_skills": [
+          "NSS/Volunteering",
+          "Communication",
+          "Empathy",
+          "Teamwork",
+          "Problem Solving"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_soc_1",
+            "career_id": "social_worker",
+            "title": "Introduction to Social Work & Community Advocacy",
+            "platform": "Coursera (Michigan University)",
+            "link": "https://www.coursera.org/",
+            "type": "Course",
+            "_id": "17e56838-a893-4379-ba56-968af3d54e7e"
+          }
+        ],
+        "average_salary": "4 - 8 LPA",
+        "hiring_companies": [
+          "Government Welfare Departments",
+          "Helpage India",
+          "Smile Foundation",
+          "UN"
+        ],
+        "required_certifications": [
+          "Master of Social Work (MSW) Licensing"
+        ],
+        "dataset_support": 60
+      }
+    ],
+    "updated_at": "2026-07-02T17:23:47.372762",
+    "_id": "3b7138ee-eba4-4d26-baeb-f27d22cffb12"
+  }
+]
