@@ -5,13 +5,13 @@
       {
         "career_id": "backend_developer",
         "title": "Back End Developer",
-        "score": 40,
+        "score": 43,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 3 of 7 core skills: Python, Java, SQL.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Teamwork.",
-          "Matched against 23 similar alumni profiles in the dataset, including a profile that led to PAT."
+          "Matched against 23 similar alumni profiles in the dataset, including a profile that led to Associate Professional."
         ],
         "missing_skills": [
           "Node.js",
@@ -48,9 +48,9 @@
       {
         "career_id": "java_developer",
         "title": "Java Developer",
-        "score": 38,
+        "score": 40,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 2 of 7 core skills: Java, SQL.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Teamwork.",
@@ -92,9 +92,9 @@
       {
         "career_id": "data_scientist",
         "title": "Data Scientist",
-        "score": 37,
+        "score": 39,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 2 of 7 core skills: Python, SQL.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Communication.",
@@ -136,13 +136,13 @@
       {
         "career_id": "cloud_engineer",
         "title": "Cloud Engineer",
-        "score": 36,
+        "score": 39,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 1 of 7 core skills: Python.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Communication and Teamwork.",
-          "Matched against 39 similar alumni profiles in the dataset, including a profile that led to CIS."
+          "Matched against 39 similar alumni profiles in the dataset, including a profile that led to Devops Engineer."
         ],
         "missing_skills": [
           "AWS",
@@ -181,9 +181,9 @@
       {
         "career_id": "data_analyst",
         "title": "Data Analyst",
-        "score": 35,
+        "score": 38,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 2 of 7 core skills: Python, SQL.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Communication.",
@@ -243,9 +243,9 @@
       {
         "career_id": "software_engineer",
         "title": "Software Engineer",
-        "score": 34,
+        "score": 36,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 2 of 8 core skills: Java, Python.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Teamwork.",
@@ -304,54 +304,11 @@
         "dataset_support": 29
       },
       {
-        "career_id": "pr_officer",
-        "title": "Public Relations Officer",
-        "score": 32,
-        "reasons": [
-          "Good academic baseline with CGPA \u2265 6.0.",
-          "Lacking direct core technical skills in your profile for this career.",
-          "Certified learning records support professional credentials.",
-          "Highly compatible soft skills: Communication and Public speaking.",
-          "Volunteering work highlights strong community empathy and civic engagement.",
-          "Matched against 48 similar alumni profiles in the dataset, including a profile that led to Computer Software Engineer."
-        ],
-        "missing_skills": [
-          "Communication",
-          "Public Speaking",
-          "Writing Skills",
-          "Teamwork",
-          "NSS/Volunteering"
-        ],
-        "suggested_courses": [
-          {
-            "id": "course_pr_1",
-            "career_id": "pr_officer",
-            "title": "Public Relations Campaigns & Strategy",
-            "platform": "Coursera (National University of Singapore)",
-            "link": "https://www.coursera.org/",
-            "type": "Course",
-            "_id": "d3a55126-1754-4998-ae8a-d78eea48a7b1"
-          }
-        ],
-        "average_salary": "6 - 14 LPA",
-        "hiring_companies": [
-          "Edelman",
-          "Genesis BCW",
-          "Reliance",
-          "Airtel",
-          "Adani Group"
-        ],
-        "required_certifications": [
-          "Accreditation in Public Relations (APR)"
-        ],
-        "dataset_support": 48
-      },
-      {
         "career_id": "data_engineer",
         "title": "Data Engineer",
-        "score": 32,
+        "score": 35,
         "reasons": [
-          "Moderate CGPA (\u2265 6.5) meets the baseline requirement for technical roles.",
+          "Strong academic performance with a CGPA \u2265 7.5.",
           "Possess 2 of 7 core skills: Python, SQL.",
           "Hackathon participation demonstrates strong application skills and coding agility.",
           "Highly compatible soft skills: Teamwork and Communication.",
@@ -391,56 +348,54 @@
         "dataset_support": 11
       },
       {
-        "career_id": "sales_executive",
-        "title": "Sales Executive",
-        "score": 32,
+        "career_id": "pr_officer",
+        "title": "Public Relations Officer",
+        "score": 34,
         "reasons": [
-          "Good academic baseline with CGPA \u2265 6.0.",
+          "Outstanding academic background with CGPA \u2265 7.5.",
           "Lacking direct core technical skills in your profile for this career.",
           "Certified learning records support professional credentials.",
-          "Highly compatible soft skills: Communication and Public speaking and Teamwork.",
-          "Matched against 68 similar alumni profiles in the dataset, including a profile that led to Operations Engineer."
+          "Highly compatible soft skills: Communication and Public speaking.",
+          "Volunteering work highlights strong community empathy and civic engagement.",
+          "Matched against 48 similar alumni profiles in the dataset, including a profile that led to Computer Software Engineer."
         ],
         "missing_skills": [
           "Communication",
-          "Negotiation",
-          "Presentation Skills",
-          "Relationship Building",
-          "CRM Tools",
-          "Target Orientation"
+          "Public Speaking",
+          "Writing Skills",
+          "Teamwork",
+          "NSS/Volunteering"
         ],
         "suggested_courses": [
           {
-            "id": "course_sales_1",
-            "career_id": "sales_executive",
-            "title": "Sales Training: Practical Sales Techniques",
-            "platform": "Udemy",
-            "link": "https://www.udemy.com/",
+            "id": "course_pr_1",
+            "career_id": "pr_officer",
+            "title": "Public Relations Campaigns & Strategy",
+            "platform": "Coursera (National University of Singapore)",
+            "link": "https://www.coursera.org/",
             "type": "Course",
-            "_id": "78826292-78c7-4039-87d3-3553f1308d79"
+            "_id": "d3a55126-1754-4998-ae8a-d78eea48a7b1"
           }
         ],
-        "average_salary": "4 - 12 LPA",
+        "average_salary": "6 - 14 LPA",
         "hiring_companies": [
-          "HDFC",
-          "Byju's",
-          "Amazon",
-          "Tata",
+          "Edelman",
+          "Genesis BCW",
           "Reliance",
-          "Infosys"
+          "Airtel",
+          "Adani Group"
         ],
         "required_certifications": [
-          "Salesforce Certification",
-          "Digital Sales Certification"
+          "Accreditation in Public Relations (APR)"
         ],
-        "dataset_support": 68
+        "dataset_support": 48
       },
       {
         "career_id": "social_worker",
         "title": "Social Worker",
-        "score": 31,
+        "score": 34,
         "reasons": [
-          "Good academic baseline with CGPA \u2265 6.0.",
+          "Outstanding academic background with CGPA \u2265 7.5.",
           "Lacking direct core technical skills in your profile for this career.",
           "Certified learning records support professional credentials.",
           "Highly compatible soft skills: Communication and Teamwork.",
@@ -476,9 +431,63 @@
           "Master of Social Work (MSW) Licensing"
         ],
         "dataset_support": 60
+      },
+      {
+        "career_id": "business_analyst",
+        "title": "Business Analyst",
+        "score": 34,
+        "reasons": [
+          "Strong academic performance with a CGPA \u2265 7.5.",
+          "Possess 1 of 7 core skills: SQL.",
+          "Hackathon participation demonstrates strong application skills and coding agility.",
+          "Highly compatible soft skills: Communication and Teamwork.",
+          "Matched against 81 similar alumni profiles in the dataset, including a profile that led to Associate Consultant."
+        ],
+        "missing_skills": [
+          "Excel",
+          "Communication",
+          "Problem Solving",
+          "Management",
+          "Project Management",
+          "Leadership"
+        ],
+        "suggested_courses": [
+          {
+            "id": "course_ba_1",
+            "career_id": "business_analyst",
+            "title": "Business Analysis & Process Modeling",
+            "platform": "Udemy",
+            "link": "https://www.udemy.com/",
+            "type": "Course",
+            "_id": "bee22237-2d75-443c-af32-ab499d0aae94"
+          },
+          {
+            "id": "cert_ba_1",
+            "career_id": "business_analyst",
+            "title": "Entry Certificate in Business Analysis (ECBA)",
+            "platform": "IIBA",
+            "link": "https://www.iiba.org/certification/core-business-analysis-certifications/ecba/",
+            "type": "Certification",
+            "_id": "7cc42d32-91d1-4312-8671-b09b68ea2aaf"
+          }
+        ],
+        "average_salary": "7 - 15 LPA",
+        "hiring_companies": [
+          "McKinsey",
+          "BCG",
+          "Cognizant",
+          "Capgemini",
+          "Amazon",
+          "HSBC"
+        ],
+        "required_certifications": [
+          "Certified Business Analysis Professional (CBAP)",
+          "PMI-PBA Certification"
+        ],
+        "dataset_support": 81
       }
     ],
-    "updated_at": "2026-07-02T17:23:47.372762",
+    "updated_at": "2026-07-03T16:00:43.552344",
     "_id": "3b7138ee-eba4-4d26-baeb-f27d22cffb12"
   }
 ]
